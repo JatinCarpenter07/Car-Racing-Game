@@ -515,11 +515,9 @@ help:
     setcolor(12);
     outtextxy(130,130,"IT IS A  FASCINATING CAR RACING GAME.");
     outtextxy(130,165,"WHICH IS PREPARED BY IN THE GUIDENCE:");
-    outtextxy(130,200,"MR.RAMAVTAR SIR (PGT COMPUTER SCIENCE)");
+    outtextxy(130,200,"MR.HEMANT MAKWANA SIR");
     outtextxy(130,235,"MADE BY:");
-    outtextxy(230,270,"1.MA.BHAVESH PATIDAR");
-    outtextxy(230,305,"2.MA.ABHISHEK PATIDAR");
-    outtextxy(230,340,"3.MA.JATIN CARPENTER");
+    outtextxy(230,270,"1.MA.JATIN CARPENTER");
     settextstyle(3,0,2);
     setcolor(5);
     outtextxy(140,375,"PRESS HOME TO GO IN MAIN-MENU");
@@ -561,4 +559,5 @@ help:
 
 //***********************************************************************************************
 //***************************************END OF PROGRAM******************************************
+
 //***********************************************************************************************
